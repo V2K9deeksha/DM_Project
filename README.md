@@ -42,10 +42,15 @@ incidents and analyze crime hotspots.
 This project analyzes LA crime data and visualizes patterns.
 
 ### Streamlit app
+![Sample Image](DM%20project/app_img/img1.png)
 
+![Sample Image](DM%20project/app_img/img2.png)
 
-### Crime Types
+### Crime Type
 ![Top Crimes Chart](DM%20project/crime_analysis_plots/top_crimes.png)
 
-### Monthly Trends
-![Montthly Trends](DM%20project/crime_analysis_plots/monthly_crime_trends.png)
+![Sample Image](DM%20project/app_img/img3.png)
+
+![Sample Image](DM%20project/app_img/img4.png)
+
+![Sample Image](DM%20project/app_img/img5.png)
