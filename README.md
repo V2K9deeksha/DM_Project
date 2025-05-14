@@ -37,3 +37,15 @@ incidents and analyze crime hotspots.
 ● Python,Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
 
 ● Streamlit for building an interactive web application 
+
+### **OUTPUTS:**
+This project analyzes LA crime data and visualizes patterns.
+
+### Streamlit app
+
+
+### Crime Types
+![Top Crimes Chart](DM%20project/crime_analysis_plots/top_crimes.png)
+
+### Monthly Trends
+![Montthly Trends](DM%20project/crime_analysis_plots/monthly_crime_trends.png)
